@@ -1,0 +1,37 @@
+_repo: The-Banished--A-Swabian-Historical-Tale_32071
+_version: 0.1.0
+alternative_title: Lichtenstein. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+  editor:
+    agent_name: Morier, James Justinian
+    alias: Morier, Jacob
+    deathdate: 1849
+    gutenberg_agent_id: '9861'
+    url: http://www.gutenberg.org/2009/agents/9861
+    wikipedia: http://en.wikipedia.org/wiki/James_Justinian_Morier
+description: ''
+gutenberg_issued: '2010-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ulrich, Duke of Württemberg, 1487-1550 -- Fiction'
+- !lcc 'PT'
+title: 'The Banished: A Swabian Historical Tale'
+url: http://www.gutenberg.org/ebooks/32071
