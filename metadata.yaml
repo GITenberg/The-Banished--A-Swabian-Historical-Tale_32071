@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9861
     wikipedia: http://en.wikipedia.org/wiki/James_Justinian_Morier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32071#The-Banished--A-Swabian-Historical-Tale
 gutenberg_issued: '2010-04-20'
 gutenberg_type: Text
 identifiers:
